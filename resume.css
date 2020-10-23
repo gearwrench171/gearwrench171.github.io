@@ -1,0 +1,70 @@
+h1 {
+    font-family: Georgia, Times, serif;
+    font-weight: bold;
+    font-size: 48px;
+ }
+
+ h2 {
+    font-size: 28px;
+ }
+
+ h3 {
+    font-size: 24px;
+    text-decoration: underline;
+    padding-left: 10px;
+ }
+
+ h4 {
+    font-size: 20px;
+    padding-left: 20px;
+ }
+
+ img {
+    width: 150px;
+ }
+
+ .header {
+    font-family: Trebuchet, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    justify-content: center;
+    margin-left: 25%;
+    padding-left: 20px;
+    width: 50%;
+ }
+
+ .about {
+    font-family: Trebuchet, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-left: 25%;
+    padding-left: 20px;
+    width: 50%;
+ }
+
+ .professionalExperience {
+    font-family: Trebuchet, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-left: 25%;
+    padding-left: 20px;
+    width: 50%;
+ }
+
+ .education {
+    font-family: Trebuchet, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-left: 25%;
+    padding-left: 20px;
+    width: 50%;
+ }
+
+ .skills {
+    font-family: Trebuchet, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-left: 25%;
+    padding-left: 20px;
+    width: 50%;
+ }
